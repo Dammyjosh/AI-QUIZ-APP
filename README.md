@@ -19,17 +19,18 @@ This app is designed for learning, self-testing, and engaging knowledge assessme
 ✅ Option to restart/refresh the quiz anytime
 
 🛠️ Tech Stack
-langchain
-langchain-groq
-pandas
+
+langchain,
+langchain-groq, 
+pandas, 
+streamlit, 
+python-dotenv, 
+Docker, 
 streamlit
-python-dotenv
-Docker
-streamlit
-minikube
-Argocd
-Groq
-GCP
+minikube, 
+Argocd, 
+Groq, 
+GCP, 
 
 
 Run application on docker:

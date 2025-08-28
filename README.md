@@ -1,10 +1,12 @@
 
-🎯 Interactive Quiz Application
+🎯 ## Interactive Quiz Application
 
 An interactive quiz application built with Python & Streamlit that generates different types of quiz questions (MCQs, True/False, and Fill-in-the-Blank) dynamically. 
 This app is designed for learning, self-testing, and engaging knowledge assessments.
 
-🚀 Features
+---
+
+🚀## Features
 
 ✅ Generate quiz questions by topic and difficulty level
 
@@ -18,22 +20,24 @@ This app is designed for learning, self-testing, and engaging knowledge assessme
 
 ✅ Option to restart/refresh the quiz anytime
 
-🛠️ Tech Stack
+---
 
-langchain,
-langchain-groq, 
-pandas, 
-streamlit, 
-python-dotenv, 
-Docker, 
-streamlit
-minikube, 
-Argocd, 
-Groq, 
-GCP, 
+🛠️ ## Tech Stack
+
+- langchain,
+- langchain-groq, 
+- pandas, 
+- streamlit, 
+- python-dotenv, 
+- Docker, 
+- streamlit
+- minikube, 
+- Argocd, 
+- Groq, 
+- GCP, 
 
 
-Run application on docker:
+## Run application on docker:
 
 from your command line
 
